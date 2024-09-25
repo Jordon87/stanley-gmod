@@ -1,0 +1,138 @@
+"stanley.officegeneric3"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_03.wav"
+	}
+	
+}
+
+"stanley.officegeneric5"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_05.wav"
+	}
+	
+}
+
+"stanley.officegeneric1"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_01.wav"
+	}
+	
+}
+
+"stanley.reddoorhallway"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_RedDoorHallway_01.wav"
+	}
+
+}
+
+"stanley.employeelounge"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_EmployeeLounge_01.wav"
+	}
+
+}
+
+"stanley.staircasegeneral"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Staircase_General_01.wav"
+	}
+
+}
+
+"stanley.officegeneric4"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_04.wav"
+	}
+	
+}
+
+"stanley.maintquiet" 
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"0.5"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_MaintenaceRoom_01.wav"
+	}
+}
+
+"stanley.monitorroomon"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.5"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_MonitorRoom_On_01.wav"
+	}
+
+}
+
+"stanley.officegeneric1hum"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"pitch"		"100"
+		"wave"		"ambient/new/Amb_Loop_Office_GeneralHum_01.wav"
+	}
+	
+}

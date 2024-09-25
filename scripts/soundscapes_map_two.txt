@@ -1,0 +1,40 @@
+"stanley.maintquiet" 
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"0.5"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_MaintenaceRoom_01.wav"
+	}
+}
+
+"stanley.bridge"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"0.3"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Bridge_01.wav"
+	}
+	
+}
+
+"stanley.monitorroomon"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.5"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_MonitorRoom_On_01.wav"
+	}
+
+}

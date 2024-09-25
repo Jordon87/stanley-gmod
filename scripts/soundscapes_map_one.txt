@@ -1,0 +1,55 @@
+"stanley.suicideroom"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_SuicideRoom_01.wav"
+	}
+
+}
+
+"stanley.officegeneric1"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_01.wav"
+	}
+	
+}
+
+"stanley.officegeneric1hum"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"pitch"		"100"
+		"wave"		"ambient/new/Amb_Loop_Office_GeneralHum_01.wav"
+	}
+	
+}
+
+"stanley.officegeneric3"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_03.wav"
+	}
+	
+}

@@ -1,0 +1,201 @@
+"stanley.boss"
+{
+	"dsp"	"0.1"
+	"fadetime" "1 "
+	
+	"playlooping"
+	{
+		"volume"		".5"
+		"pitch"		"100" 
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+}
+
+"stanley.elevatorquiet"
+{
+	"dsp"	"0.1"
+	"fadetime" "0.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.6"
+		"pitch"		"103" 
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	"playlooping"
+	{
+		"volume"		".2"
+		"pitch"		"100"
+		"wave"		"ambient/new/Amb_Loop_Staircase_Pipe_01.wav"
+	}
+
+}
+
+"stanley.officegeneric1hum"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"pitch"		"100"
+		"wave"		"ambient/new/Amb_Loop_Office_GeneralHum_01.wav"
+	}
+	
+}
+
+"stanley.officegeneric5"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_05.wav"
+	}
+	
+}
+
+"stanley.reddoorhallway"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_RedDoorHallway_01.wav"
+	}
+
+}
+
+"stanley.cargolift"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.6"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_CargoLift_01.wav"
+	}
+
+}
+
+"stanley.staircasegeneral"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Staircase_General_01.wav"
+	}
+
+}
+
+"stanley.suicideroom"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_SuicideRoom_01.wav"
+	}
+
+}
+
+"stanley.officegeneric3"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_03.wav"
+	}
+	
+}
+
+"stanley.maint" 
+{
+	"dsp"	"0.1"
+	"fadetime" "1 "
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_MaintenaceRoom_01.wav"
+	}
+
+}
+
+"stanley.officegeneric1"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_01.wav"
+	}
+	
+}
+
+"stanley.officegeneric4"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_04.wav"
+	}
+	
+}
+
+"stanley.broomcloset"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_BroomCloset_01.wav"
+	}
+	
+}
+
+"stanley.employeelounge"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_EmployeeLounge_01.wav"
+	}
+
+}

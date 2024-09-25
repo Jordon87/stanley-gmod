@@ -1,0 +1,27 @@
+"stanley.officegeneric3"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_03.wav"
+	}
+	
+}
+
+"stanley.officegeneric5"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Office_General_05.wav"
+	}
+	
+}

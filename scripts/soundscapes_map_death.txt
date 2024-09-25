@@ -1,0 +1,26 @@
+"stanley.museum" 
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Ambient_Museum.wav"
+	}
+}
+
+"stanley.officegeneric1hum"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"pitch"		"100"
+		"wave"		"ambient/new/Amb_Loop_Office_GeneralHum_01.wav"
+	}
+	
+}

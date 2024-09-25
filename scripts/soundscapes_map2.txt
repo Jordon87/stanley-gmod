@@ -1,0 +1,97 @@
+"stanley.escapehallway"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_EscapeHallway_01.wav"
+	}
+
+}
+
+"stanley.bridge"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"0.3"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Bridge_01.wav"
+	}
+	
+}
+
+"stanley.poweroff"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_Power_Off.wav"
+	}
+	
+}
+
+"stanley.silence"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.3"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/silence.wav"
+	}
+	
+}
+
+"stanley.machinecontrolroom"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.5"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_MachineControlRoom_01.wav"
+	}
+
+}
+
+"stanley.disableroomoff"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_DisableRoom_Off_01.wav"
+	}
+
+}
+
+"stanley.disableroomon"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		"0.4"
+		"pitch"		"100" 
+		"wave"		"ambient/new/Amb_Loop_DisableRoom_On_01.wav"
+	}
+
+}
