@@ -328,7 +328,7 @@ sound.Add( {
 	volume = 1,
 	level = SNDLVL_NORM,
 	pitch = 100,
-	sound = {"doors/FX_PhoneCountdown_01.wav", "doors/FX_PhoneCountdown_02.wav", "doors/FX_PhoneCountdown_03.wav", "doors/FX_PhoneCountdown_04.wav"}
+	sound = {"fx/FX_PhoneCountdown_01.wav", "fx/FX_PhoneCountdown_02.wav", "fx/FX_PhoneCountdown_03.wav", "fx/FX_PhoneCountdown_04.wav"}
 } )
 
 sound.Add( {
