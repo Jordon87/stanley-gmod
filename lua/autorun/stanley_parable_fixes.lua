@@ -1,3 +1,13 @@
+// Particles
+
+game.AddParticles( "particles/stanley.pcf" )
+game.AddParticles( "particles/stanley2.pcf" )
+game.AddParticles( "particles/stanley3.pcf" )
+game.AddParticles( "particles/escape.pcf" )
+game.AddParticles( "particles/dream.pcf" )
+
+// Game Sounds
+
 sound.Add( {
 	name = "Stanley.DoorOpen",
 	channel = CHAN_VOICE,
